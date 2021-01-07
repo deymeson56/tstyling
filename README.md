@@ -1,4 +1,4 @@
-# T-Styling ~Dark Warrior
+# T-Styling ~DARK HANDS
 *based on fish*
 ![logo](Pic.jpg)
 ### This script will make your termux work productive and look better. Enjoy! ! 
@@ -19,6 +19,3 @@ https://is.gd/tstylingss
 
 #### Uninstalling
 1. Run the script again to uninstall styling.
-
-*Special Thanks to **xenoCoder01**
-for testing, modifying and helping to make this script work*
